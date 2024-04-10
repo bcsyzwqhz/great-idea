@@ -1,0 +1,5 @@
+Software:
+Mixly 1.2.5
+
+Hardware:
+mPython 2.0.1
