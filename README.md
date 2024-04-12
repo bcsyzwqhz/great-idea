@@ -10,4 +10,4 @@
 欢迎大家对此项目提出改进意见！
 
 ## 团队合照
-![photo](/tree/main/resources/合照.jpg)
+![photo](/main/resources/合照.jpg)
